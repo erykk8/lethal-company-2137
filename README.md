@@ -1,5 +1,14 @@
 # 2137 - Papieski Item Pack
-Zestaw itemów szkalownika. Niektóre itemy posiadają interakcję przy wcisnięciu lewego przycisku myszki.
+Zestaw itemów szkalownika
+
+# Instrukcja instalacji
+## Manualna
+Zainstaluj zależności - [BepInEx](https://github.com/BepInEx/BepInEx) i [LethalExpansion](https://github.com/HolographicWings/LethalExpansion). Skopiuj plik `2137.lem` do folderu `BepInEx/plugins` w folderze gry. 
+
+Prawdopodobnie w `C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\plugins`.
+
+## Thunderstore / R2Modman (zalecana)
+https://thunderstore.io/c/lethal-company/p/medzuslovjansky_hardbas/2137/
 
 # Galeria
 ![Screenshot](screenshot.jpg)
@@ -13,6 +22,8 @@ Zestaw itemów szkalownika. Niektóre itemy posiadają interakcję przy wcisnię
 - Rzułta Morda
 - Rzułty Kubek
 - Czerwona Morda (RARE)
+
+🍆 Niektóre itemy posiadają interakcję przy wcisnięciu lewego przycisku myszki! 🍆
 
 # Licencje, autorzy itd.
 - https://www.thingiverse.com/thing:4783462 "Nic nie robi bica jak bogurodzica Pope Papież" by Nate127 - licencja https://creativecommons.org/licenses/by-nc/4.0/
