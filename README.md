@@ -1,5 +1,8 @@
 # 2137 - Papieski Item Pack
-Zestaw itemów szkalownika. 
+Zestaw itemów szkalownika. Niektóre itemy posiadają interakcję przy wcisnięciu lewego przycisku myszki.
+
+# Galeria
+![Screenshot](screenshot.jpg)
 
 # Scrap itemy
 - Kremówka
