@@ -1,5 +1,5 @@
 # 2137 - Papieski Item Pack
-Zestaw itemów szkalownika
+Zestaw itemów szkalownika - mod do gry [Lethal Company](https://store.steampowered.com/app/1966720/Lethal_Company/)
 
 # Instrukcja instalacji
 ## Manualna
